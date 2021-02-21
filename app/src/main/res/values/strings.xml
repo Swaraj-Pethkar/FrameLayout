@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FrameLayout</string>
+    <string name="this_is_left_text_view">This is Left Text View</string>
+    <string name="this_is_right_text_view">This is Right Text View</string>
+</resources>
